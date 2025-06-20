@@ -10,4 +10,4 @@ This is the source code for my portfolio website.
 
 ## Demo
 
-You can visit the website by visiting [here](https://lakyei.github.io/).
+You can visit the website by clicking [here](https://lakyei.github.io/).
